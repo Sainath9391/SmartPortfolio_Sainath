@@ -15,36 +15,36 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 🚀 About Me
+## About Me
 
 Hi! I’m currently pursuing my **B.Tech in CSE (Data Science)** at  
 **Malla Reddy Engineering College, Hyderabad**.
 
-What began as a journey focused on learning and placements has evolved into a deeper purpose —  
+What began as a journey focused on learning and placements has evolved into a deeper purpose 
 **building meaningful, scalable, and high-impact solutions through technology.**
 
 My foundation lies in:
 
-- 🧠 **Data Structures & Algorithms (C++)**
-- 🌐 **Full-Stack Development (MERN Stack)**
-- 🗄 **SQL & NoSQL Database Design**
-- ⚡ Performance-focused backend architecture
+- **Data Structures & Algorithms (C++)**
+- **Full-Stack Development (MERN Stack)**
+- **SQL & NoSQL Database Design**
+- Performance-focused backend architecture
 
 I recently completed an internship with **Edunet Foundation** in collaboration with **EY GDS & AICTE**, where I gained hands-on experience in building scalable applications and understanding real-world engineering practices.
 
-Hackathons and collaborative projects transformed my mindset —  
+Hackathons and collaborative projects transformed my mindset   
 from just writing code to **thinking in systems, scalability, and innovation.**
 
 ---
 
-### 🌱 What Drives Me Today
+### What Drives Me Today
 
 - 🔹 Solving complex problems through optimized logic  
 - 🔹 Designing impactful, user-centered web applications  
 - 🔹 Exploring AI-driven and intelligent systems  
 - 🔹 Collaborating with ambitious and growth-oriented teams  
 
-I believe learning is continuous — every conversation and project creates opportunity.
+I believe learning is continuous  every conversation and project creates opportunity.
 
 > **Let’s build technology that truly creates value.**
 
@@ -64,19 +64,19 @@ I believe learning is continuous — every conversation and project creates oppo
 
 <!-- ===================== ENGINEERING PHILOSOPHY ===================== -->
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
-- ⚙ Clean, modular & maintainable code  
-- 🚀 Non-blocking and scalable backend architecture  
-- 📊 Optimized database queries & indexing strategies  
-- 🧩 System-first thinking before implementation  
-- 📈 Performance-aware development mindset  
+-  Clean, modular & maintainable code  
+-  Non-blocking and scalable backend architecture  
+-  Optimized database queries & indexing strategies  
+-  System-first thinking before implementation  
+-  Performance-aware development mindset  
 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -100,11 +100,11 @@ I believe learning is continuous — every conversation and project creates oppo
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pendalwar-sainath-598169349">
 <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sainathpendalwar43@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
