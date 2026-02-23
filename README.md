@@ -76,33 +76,24 @@ I believe learning is continuous  every conversation and project creates opportu
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-## 📊 Development Impact & Consistency
+## 📊 Development Impact
 
 <p align="center">
-
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Sainath9391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-    height="165"
+    height="170"
   />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sainath9391&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-
 </p>
 
 ---
 
-## 🚀 Technical Depth Overview
+## 🚀 Technical Focus
 
 <p align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath9391&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath9391&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
     height="170"
   />
-
 </p>
 
 ---
