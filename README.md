@@ -81,12 +81,12 @@ I believe learning is continuous  every conversation and project creates opportu
 <p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sainath9391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Sainath9391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Sainath9391&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sainath9391&theme=tokyonight&hide_border=true" 
     height="165"
   />
 
@@ -99,7 +99,7 @@ I believe learning is continuous  every conversation and project creates opportu
 <p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sainath9391&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath9391&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     height="170"
   />
 
@@ -110,7 +110,6 @@ I believe learning is continuous  every conversation and project creates opportu
 <p align="center">
   <b>Consistency compounds. Systems scale. Impact multiplies.</b>
 </p>
-
 ---
 
 <!-- ===================== CONNECT ===================== -->
