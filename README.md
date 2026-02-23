@@ -78,22 +78,9 @@ I believe learning is continuous  every conversation and project creates opportu
 
 ## 📊 Development Impact
 
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sainath9391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-  height="170"
-/>
 
 <img 
   src="https://streak-stats.demolab.com?user=Sainath9391&theme=tokyonight&hide_border=true" 
-  height="170"
-/>
-
----
-
-## 🚀 Technical Focus
-
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sainath9391&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
   height="170"
 />
 
