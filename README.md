@@ -74,22 +74,41 @@ I believe learning is continuous  every conversation and project creates opportu
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
-## GitHub Analytics
+## 📊 Development Impact & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## 🚀 Technical Depth Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="170"
+  />
+
+</p>
+
+---
+
+<p align="center">
+  <b>Consistency compounds. Systems scale. Impact multiplies.</b>
 </p>
 
 ---
