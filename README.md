@@ -1,78 +1,82 @@
-<h1 align="center">
-  Hi 👋, I'm Sainath
-</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">
-  🚀 B.Tech CSE (Data Science) | System Design Enthusiast | Full Stack Developer
-</h3>
+<h1 align="center">Hi, I'm Sainath 👋</h1>
+<h3 align="center">Systems-Focused Full-Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Performance+Driven+Developer;ML+%7C+Node.js+%7C+MongoDB;Hardware+Aware+Software+Engineer" />
+  <b>Building scalable systems • AI-driven solutions • Performance-oriented applications</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Data+Science);Full-Stack+Developer+(MERN);System+Design+%7C+DSA+%7C+AI;Performance+Driven+Engineer" />
 </p>
 
 ---
 
-## 🧠 About Me
+<!-- ===================== ABOUT ===================== -->
 
-- 🎓 B.Tech CSE (Data Science) Student  
-- 💡 Passionate about **Hardware-Software Integration & Performance Optimization**
-- ⚡ Love building **real-time dashboards, scalable APIs, ML-powered systems**
-- 🔬 Interested in OS, system architecture & concurrent processing
-- 🚀 Currently building intelligent full-stack applications
+## 🚀 About Me
+
+Hi! I’m currently pursuing my **B.Tech in CSE (Data Science)** at  
+**Malla Reddy Engineering College, Hyderabad**.
+
+What began as a journey focused on learning and placements has evolved into a deeper purpose —  
+**building meaningful, scalable, and high-impact solutions through technology.**
+
+My foundation lies in:
+
+- 🧠 **Data Structures & Algorithms (C++)**
+- 🌐 **Full-Stack Development (MERN Stack)**
+- 🗄 **SQL & NoSQL Database Design**
+- ⚡ Performance-focused backend architecture
+
+I recently completed an internship with **Edunet Foundation** in collaboration with **EY GDS & AICTE**, where I gained hands-on experience in building scalable applications and understanding real-world engineering practices.
+
+Hackathons and collaborative projects transformed my mindset —  
+from just writing code to **thinking in systems, scalability, and innovation.**
 
 ---
+
+### 🌱 What Drives Me Today
+
+- 🔹 Solving complex problems through optimized logic  
+- 🔹 Designing impactful, user-centered web applications  
+- 🔹 Exploring AI-driven and intelligent systems  
+- 🔹 Collaborating with ambitious and growth-oriented teams  
+
+I believe learning is continuous — every conversation and project creates opportunity.
+
+> **Let’s build technology that truly creates value.**
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,java" />
-</p>
+<p align="center">
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,linux,vscode" />
 
-### 🗄 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 📊 ML & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== ENGINEERING PHILOSOPHY ===================== -->
 
-### 🎯 Smart College Event Insights Dashboard
-> ML-powered event prediction & recommendation system  
-- Collaborative Filtering  
-- Time Series Forecasting  
-- Real-time Check-in Tracking  
+## 🧠 Engineering Philosophy
 
----
-
-### 🛵 RideConnect – Real-Time Ride Sharing Platform
-> Built using React + Node.js + MongoDB  
-- Dynamic booking system  
-- Real-time updates  
-- Scalable API architecture  
+- ⚙ Clean, modular & maintainable code  
+- 🚀 Non-blocking and scalable backend architecture  
+- 📊 Optimized database queries & indexing strategies  
+- 🧩 System-first thinking before implementation  
+- 📈 Performance-aware development mindset  
 
 ---
 
-### 🍔 Food Delivery Platform
-> Secure full-stack platform  
-- User Authentication  
-- Restaurant Management  
-- Live updates with dynamic rendering  
+<!-- ===================== GITHUB STATS ===================== -->
 
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -82,7 +86,7 @@
 
 ---
 
-## 📊 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
@@ -90,19 +94,24 @@
 
 ---
 
-## 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+## 🤝 Let’s Connect
 
 <p align="center">
-  💡 “Build systems that scale. Optimize what matters.”
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  Open to internships, collaborations, and innovative tech projects.
+  <br/>
+  <b>Building technology with purpose.</b>
 </p>
