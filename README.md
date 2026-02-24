@@ -6,9 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Sainath9391">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=640&height=50&lines=B.Tech+CSE+(Data+Science)+%40+MREC+Hyderabad;Full-Stack+Developer+%7C+MERN+Stack;System+Design+%7C+DSA+%7C+AI-Driven+Solutions;Performance-Oriented+Engineer" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=640&height=50&lines=B.Tech+CSE+(Data+Science)+%40+MREC+Hyderabad;Full-Stack+Developer+%7C+MERN+Stack;System+Design+%7C+DSA+%7C+AI-Driven+Solutions;Performance-Oriented+Engineer" alt="Typing SVG" />
 
 <br/>
 
