@@ -39,10 +39,10 @@ from just writing code to **thinking in systems, scalability, and innovation.**
 
 ### What Drives Me Today
 
-- 🔹 Solving complex problems through optimized logic  
-- 🔹 Designing impactful, user-centered web applications  
-- 🔹 Exploring AI-driven and intelligent systems  
-- 🔹 Collaborating with ambitious and growth-oriented teams  
+-  Solving complex problems through optimized logic  
+-  Designing impactful, user-centered web applications  
+-  Exploring AI-driven and intelligent systems  
+-  Collaborating with ambitious and growth-oriented teams  
 
 I believe learning is continuous  every conversation and project creates opportunity.
 
@@ -76,7 +76,7 @@ I believe learning is continuous  every conversation and project creates opportu
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-## 📊 Development Impact
+## Development Impact
 
 
 <img 
@@ -93,7 +93,7 @@ I believe learning is continuous  every conversation and project creates opportu
 
 <!-- ===================== CONNECT ===================== -->
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <p align="center">
 
